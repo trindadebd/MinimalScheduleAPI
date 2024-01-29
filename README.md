@@ -12,7 +12,7 @@ Cards:
   - Listagem, Cadastro, Busca por Id, Atualização, e Exclusão de Card.
 
 Listas de Tarefas (ToDo): 
-  - Cadastro, Busca por Id, Atualização, e Exclusão de Card.
+  - Cadastro, Atualização, e Exclusão de Card.
 
 ## Documentação:
 https://scheduleapi0.azurewebsites.net/swagger/index.html
