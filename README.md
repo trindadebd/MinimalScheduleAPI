@@ -8,9 +8,10 @@ Este projeto oferece uma solução flexível para o gerenciamento de tarefas, pe
 - Swagger
 
 ## Funcionalidades
-Cards Dinâmicos: Cada card pode ser personalizado com um título único.
+Cards:
   - Listagem, Cadastro, Busca por Id, Atualização, e Exclusão de Card.
-Listas de Tarefas: Adicione e gerencie diversas tarefas em cada card.
+
+Listas de Tarefas (ToDo): 
   - Cadastro, Busca por Id, Atualização, e Exclusão de Card.
 
 ## Documentação:
