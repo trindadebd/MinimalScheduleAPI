@@ -178,7 +178,7 @@ namespace MinimalScheduleAPI.Controllers
         }
 
         /// <summary>
-        /// Cadastrar um toDo
+        /// Atualizar um toDo
         /// </summary>
         /// <remarks>
         /// {"sTitulo":"string","bConcluido": true}
