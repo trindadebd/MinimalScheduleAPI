@@ -1,5 +1,5 @@
 # MinimalScheduleAPI
-Este projeto oferece uma solução flexível para o gerenciamento de tarefas, permitindo a criação de cards distintos, cada um com sua própria lista de tarefas. A seguir, são fornecidos os passos para configurar e executar o projeto.
+Este projeto oferece uma solução flexível para o gerenciamento de tarefas, permitindo a criação de cards distintos, cada um com sua própria lista de tarefas. 
 
 ## Tecnologias e ferramentas utilizadas
 - Visual Studio 2022
